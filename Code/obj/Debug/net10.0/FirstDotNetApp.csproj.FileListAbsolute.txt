@@ -1,0 +1,14 @@
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/bin/Debug/net10.0/FirstDotNetApp
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/bin/Debug/net10.0/FirstDotNetApp.deps.json
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/bin/Debug/net10.0/FirstDotNetApp.runtimeconfig.json
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/bin/Debug/net10.0/FirstDotNetApp.dll
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/bin/Debug/net10.0/FirstDotNetApp.pdb
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/FirstDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/FirstDotNetApp.AssemblyInfoInputs.cache
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/FirstDotNetApp.AssemblyInfo.cs
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/FirstDotNetApp.csproj.CoreCompileInputs.cache
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/FirstDotNetApp.dll
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/refint/FirstDotNetApp.dll
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/FirstDotNetApp.pdb
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/FirstDotNetApp.genruntimeconfig.cache
+/Users/bishesmaharjan/Desktop/5th-sem/.net/FirstDotNetApp/obj/Debug/net10.0/ref/FirstDotNetApp.dll
